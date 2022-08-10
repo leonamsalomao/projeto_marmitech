@@ -108,6 +108,10 @@ a{
     padding: 0.2rem;
   }
 
+a:hover{
+  font-weight: bold;
+}
+
 @media(min-width: 70em){
   main{
     max-width: 1020px;
@@ -130,4 +134,8 @@ a{
     color: #ffffff;
     padding: 0.2rem;
   }
+  
+  a:hover{
+  font-weight: bold;
+}
 }
