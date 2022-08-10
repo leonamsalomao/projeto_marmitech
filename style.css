@@ -30,7 +30,7 @@ header h1{
 }
 
 header span{
-  color: #8253f1;
+  color: #8256E7;
 }
 
 header p{
@@ -64,8 +64,8 @@ main .panel p{
 
 /* Style the buttons that are used to open and close the accordion panel */
 .toggle {
-  background-color: #8253f1;
-  color: rgb(255, 255, 255);
+  background-color: #8256E7;
+  color: #FFFFFF;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -102,6 +102,12 @@ footer{
   text-align: center;
 }
 
+a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 0.2rem;
+  }
+
 @media(min-width: 70em){
   main{
     max-width: 1020px;
@@ -123,6 +129,5 @@ footer{
     text-decoration: none;
     color: #ffffff;
     padding: 0.2rem;
-    border-radius: 0.8rem;
   }
 }
