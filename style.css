@@ -60,6 +60,7 @@ main p{
 
 main p a{
   font-weight: bold;
+  text-decoration: underline;
 }
 
 main .panel p{
