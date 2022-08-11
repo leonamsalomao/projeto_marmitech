@@ -58,6 +58,10 @@ main p{
   padding: 1rem;
 }
 
+main p a{
+  font-weight: bold;
+}
+
 main .panel p{
   margin-bottom: 0rem;
 }
