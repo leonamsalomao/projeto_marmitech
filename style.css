@@ -59,7 +59,7 @@ main p{
 }
 
 main p a{
-  font-weight: bold;
+  font-weight: italic;
   text-decoration: underline;
 }
 
